@@ -22,7 +22,7 @@ I build reproducible, end-to-end machine learning systems that bridge research a
 ## Selected highlights & projects
 Short, high-impact projects that demonstrate full-stack ML and systems thinking.
 
-- **SwiftPredict** — AutoML Python library (`pip install swiftpredict_dev`) that automates preprocessing → model selection → training pipelines. (Repo: `SwiftPredict`)  
+- **SwiftPredict** — AutoML Python library (`pip install swiftpredict-v2`) that automates preprocessing → model selection → training pipelines. (Repo: `SwiftPredict`)  
 - **Multi-Agent Code Refiner (MCP protocol)** — Full-stack system with LangChain-based agents (CodeWriter, SyntaxFixer, Optimizer, DocAgent, Reviewer), FastAPI orchestration, MongoDB session/state tracking, and a React + Tailwind frontend. Demonstrates agent coordination, reproducible workflows, and scoring.  
 - **DCGAN (PyTorch)** — Implemented and logged experiments via TensorBoard; emphasis on stable training and reproducible checkpoints.  
 - **Reinforcement Learning (DQN)** — DQN agent trained to play *Flappy Bird* using `gymnasium`; focused on reward shaping and stable replay buffers.  
@@ -52,7 +52,7 @@ I value breadth with depth — I pick tools that let me ship end-to-end solution
 - MLflow, Docker, CI/CD fundamentals, experiment tracking
 
 **Deployment & Backend**
-- FastAPI, Streamlit, Flask (prototypes)  
+- FastAPI, Streamlit, Flask (prototypes), Celery, Redis, JWT  
 - MongoDB (session/state persistence), containerized deployments
 
 **Tooling & Integrations**
