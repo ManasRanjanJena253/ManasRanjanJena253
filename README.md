@@ -39,6 +39,7 @@ I value breadth with depth — I pick tools that let me ship end-to-end solution
 **Languages**
 - Python (primary)
 - C++ (Intemediate)
+- Go (primary)
 
 **Machine Learning & Deep Learning**
 - scikit-learn, XGBoost, LightGBM, CatBoost  
@@ -69,8 +70,8 @@ I value breadth with depth — I pick tools that let me ship end-to-end solution
 ---
 
 ## Open for
-- Collaborative projects in LLM engineering, generative models, reinforcement learning, and quant trading.  
-- Remote internships (AI/ML-focused).  
+- Collaborative projects in LLM engineering, generative models, reinforcement learning, and Backend Development.  
+- Remote internships (AI/ML Systems Focused).  
 - Speaking or writing opportunities about agent architectures, reproducible ML, or end-to-end deployment.
 
 ---
