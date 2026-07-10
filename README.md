@@ -54,40 +54,44 @@
 </td>
 <td valign="top" width="54%">
 
-```
-manas@pec ────────────────────────────────
-OS ..................... Linux (Pop!_OS)
-Uptime .................. B.Tech since 2024
-Host ..................... Punjab Engineering
-                            College, Chandigarh
-Program .................. B.Tech, Mathematics
-                            & Computing (2028)
-Kernel ................... Focused ML/AI since
-                            Sept 2024
+```ansi
+[1;36mmanas@pec[0m [1;30m------------------------------[0m
 
-Languages.Programming .... Python, Go, C++
-Languages.Domains ........ ML/DL, RL, LLM/RAG,
-                            gRPC backends
-Frameworks ............... PyTorch, scikit-learn,
-                            XGBoost, LightGBM,
-                            Hugging Face, LangChain
-Backend .................. FastAPI, Docker, Redis,
-                            MongoDB, gRPC, Celery
+[1;36mOS[0m [2;37m.....................[0m [0;37mLinux (Pop!_OS)[0m
+[1;36mUptime[0m [2;37m.................[0m [0;37mB.Tech since 2024[0m
+[1;36mHost[0m [2;37m...................[0m [0;37mPunjab Engineering[0m
+                         [0;37mCollege, Chandigarh[0m
+[1;36mProgram[0m [2;37m................[0m [0;37mB.Tech, Mathematics &[0m
+                         [0;37mComputing (2028)[0m
+[1;36mKernel[0m [2;37m.................[0m [0;37mFocused ML/AI since[0m
+                         [0;37mSept 2024[0m
 
-Hobbies.Fitness .......... Strength training
-                            (top 1% strength/weight
-                            class goal)
-Hobbies.Mind ............. Mindfulness & meditation
+[1;36mLanguages.Programming[0m [2;37m..[0m [0;37mPython, Go, C++[0m
+[1;36mLanguages.Domains[0m [2;37m......[0m [0;37mML/DL, RL, LLM/RAG,[0m
+                         [0;37mgRPC backends[0m
+[1;36mFrameworks[0m [2;37m.............[0m [0;37mPyTorch, scikit-learn,[0m
+                         [0;37mXGBoost, LightGBM,[0m
+                         [0;37mHugging Face,[0m
+                         [0;37mLangChain[0m
+[1;36mBackend[0m [2;37m................[0m [0;37mFastAPI, Docker,[0m
+                         [0;37mRedis, MongoDB, gRPC,[0m
+                         [0;37mCelery[0m
 
-Contact.Email ............ mranjanjena253@gmail.com
-Contact.LinkedIn ......... manas-ranjan-jena
-Contact.Blog ............. manas.hashnode.dev
+[1;36mHobbies.Fitness[0m [2;37m........[0m [0;37mStrength training (top[0m
+                         [0;37m1% strength/weight[0m
+                         [0;37mclass goal)[0m
+[1;36mHobbies.Mind[0m [2;37m...........[0m [0;37mMindfulness &[0m
+                         [0;37mmeditation[0m
 
-GitHub Stats ─────────────────────────────
-Repos ............... see github.com/
-                       ManasRanjanJena253
-Status ............... Open to remote
-                       internships & contracts
+[1;36mContact.Email[0m [2;37m..........[0m [0;37mmranjanjena253@gmail.com[0m
+[1;36mContact.LinkedIn[0m [2;37m.......[0m [0;37mmanas-ranjan-jena[0m
+[1;36mContact.Blog[0m [2;37m...........[0m [0;37mmanas.hashnode.dev[0m
+
+[1;36mGitHub Stats[0m [1;30m---------------------------[0m
+[1;36mRepos[0m [2;37m..................[0m [0;37mgithub.com/ManasRanjanJena253[0m
+[1;36mStatus[0m [2;37m.................[0m [0;37mOpen to remote[0m
+                         [0;37minternships &[0m
+                         [0;37mcontracts[0m
 ```
 
 </td>
