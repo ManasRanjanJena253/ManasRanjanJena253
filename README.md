@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://github.com/ManasRanjanJena253"><img src="https://img.shields.io/github/followers/ManasRanjanJena253?label=Followers&style=flat-square" alt="Followers"></a>
-<a href="https://pypi.org/project/swiftpredict_dev/"><img src="https://img.shields.io/pypi/v/swiftpredict_dev?label=PyPI%20%7C%20swiftpredict_dev&style=flat-square" alt="SwiftPredict on PyPI"></a>
+<a href="https://pypi.org/project/swiftpredict-v2/"><img src="https://img.shields.io/pypi/v/swiftpredict-v2?label=PyPI%20%7C%20swiftpredict_dev&style=flat-square" alt="SwiftPredict on PyPI"></a>
 <a href="https://github.com/ManasRanjanJena253/SwiftPredict"><img src="https://img.shields.io/github/stars/ManasRanjanJena253/SwiftPredict?label=Stars%20%7C%20SwiftPredict&style=flat-square" alt="GitHub Stars - SwiftPredict"></a>
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License: MIT"></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.10%2B-blue?style=flat-square&logo=python" alt="Python"></a>
@@ -15,40 +15,47 @@
 <tr>
 <td valign="top" width="46%">
 
-```                                                                          
-                                                    
-          :                           .=:           
-        :+ .-*.                     ++: :-          
-        *... .++.                 +*:  : +          
-        *.::   =+*              =*+.  .- +          
-        *..=-:  -*=*##*#@@@###*+++.  :-= =          
-         + .:. .-+=:=@%+@@%+@=:-+=:  .- .=          
-         #-.---::::=:%=-#**-#-=--::---- ++          
-         *:+=..:::=-==%=**:**+==:::: :++:=          
-         ==+::::*@:+@:+##@=*:%% ##:::.-+==          
-         *--:::   . -::::::::+  .  ::::=+*.         
-        =--+-::*%:%%= :::::: -+%%%#--=+=-+*         
-        #:=@#- =-#@%#+ :::: -*#@%-* .=%@*+*:        
-        **%=++:.=-*=*@ :::::**-*==:.=*#%@#*=        
-        @#-  -*+-.. ::-::::-:: .:-=**-+-*@@=        
-        +%:=@@*-:::.  :#*+*-  ::::-*@@@=-%%=        
-         ##%+++=:.. .   +*   . ..-==-:-*@*#         
-         -#-*%%+---:    ++    :==--=*%@**@#         
-        .+@%- :=+:-. ::    :: :-:+##*=+%@@@-        
-      .  %@%@@*  ::::       .::---:**@@#+@@@.       
-        *@@@#-::++=-:::+***-::=*%@@%#*-*@@#*%.      
-       =%=*@@%:.     .:::::::::::--**%@@@*:#@+      
-      .%*-=-:-+:        ..:::::::-*@@@@*--%@@*      
-      :%@%=:::                :-***-.  :*@@@#*      
-      .*#@@@#+=.             :::::..:+*@@@#-=*      
-       * .+%#@@@%@*.        ***%@@@@@@#==:+@@@:     
-      :*@  .::           :@@@@@*:::   ::*@@@@@@#    
-      -@+@* :..        .:::::::. .::#%@@@@*:@@#%@:
+```                                                                                                                                                                
+                                              @@@#.                                         #@@@                                              
+                                             =@ :%@@@                                    %@@@- @+                                             
+                                             @+    =@%%                                %%@+    =@                                             
+                                            -@  %:   .%%@                            %%#-   .%  @=                                            
+                                            #-  @@+    #*%@                        @%*#    =@@  -%                                            
+                                            @  *@@%#    =#*%%                    %%*#+    #%@@#  @                                            
+                                            *=  @@@+      %*#@%                %@**%      +@@@  -#                                            
+                                             %  +@@@@@     #**%@@@@@@@@@@@@@@@@%**%     @@@@@*  %.                                            
+                                             %:  %@@@:     +#**#@:-----*****:@%****     .%@@%  :%                                             
+                                             -%  .@@@%%*   .#****- :---***+.-#***#-   +%%@@@.  %=                                             
+                                              @%  +@@@:     %**+   .---**#.   +**#     :@@@*  %@                                              
+                                              @-+ :*@=%@#   *.    .--- -***-    .*   #@@=@#: *:@                                              
+                                              @=::::%-:-@@%      ---   ::-**+      #@@-::%::::=@                                              
+                                              *%=::::*:=*       :-     ::::-*=       ++:*:.::-%#                                              
+                                               %%****#=                :::::           -#****%%                                               
+                                                #%*%:         .        ::::    .         .%*%%                                                
+                                                 %=       .    +*:    **::  .**    .       -%                                                 
+                                                %*:.    *******#**: -****= .***#******    .:+@                                                
+                                               %*::::.****@@=:@@%*#***-:***#*%@@:=@@****:::::*@                                               
+                                              ##::-*#@@@+..+=-%=%%@**    **@#%-%-=*..=@@@#*-::##                                              
+                                             +#+%**#@@@**=...:=+*@@:      :@@*+=-...=**@@@%**%+#*                                             
+                                            +@@@**#@: :****+-...-#=        -#-...-+****- :@%**%@@*                                            
+                                             :@**=      :+*******#          ********+-      -**@-                                             
+                                             @*%#            =**%:          .%**=            *%*@                                             
+                                            %@@%              *%-            -@*              #@@@                                            
+                                               %@.        %    +              =    %.        @%.                                              
+                                                :@@%-      =+ .    :%****#-    : ==      -%@@=                                                
+                                                 *@@**       +#     @@@@@@     #*       **@@#                                                 
+                                                  @@**-       :%      %%      %-       :**@@                                                  
+                                                  :@%#@.        .%#*#%%%%#*#%:         @##@-                                                  
+                                                   *%@@@=          %+----+%          =@@@%#                                                   
+                                                    #@@@@*=                        =*%@@@#                                                    
+                                                       #@%**-                    :**%@%                                                       
+                                                         .@%***                +**%@:                                                         
+                                                            *@#%+            -@#@#                                                            
+                                                               %@@=        -@@%                                                               
+                                                                 :@@+    =@@-                                                                 
+                                                                    *@--@#                                                                    
+                                                                                                                                              
 
-     root:~$ git log --graph
-     * commit  build systems that scale
-     * commit  ship, measure, iterate
-     * commit  keep learning
 ```
 
 </td>
