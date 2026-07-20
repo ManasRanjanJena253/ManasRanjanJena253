@@ -11,30 +11,21 @@
 
 ML/AI engineer and Go backend developer building RAG systems, LLM infrastructure, and production ML pipelines. B.Tech Mathematics and Computing, Punjab Engineering College.
 
-## Projects
-
-- **[Keiro](https://github.com/ManasRanjanJena253/Keiro)** — Self-hostable adaptive RAG infrastructure with a Go API gateway, Python gRPC intelligence layer, and three-tier retrieval routing. Live at [trykeiro.in](https://trykeiro.in). [PyPI](https://pypi.org/project/keiro-client/)
-- **[SwiftPredict](https://pypi.org/project/swiftpredict-v2/)** — AutoML Python library automating preprocessing, model selection, and training.
-- **Multi-Agent Code Refiner** — Multi-agent code review system coordinated over MCP, with FastAPI orchestration.
-- **MindHaven** — Voice-enabled RAG mental health assistant with JWT auth, Redis, and async streaming.
-
 ## Stack
 
-| Category | Tools |
-|---|---|
-| **Languages** | Python · Go · C++ |
-| **ML / DL** | PyTorch · Scikit-learn · Hugging Face · Gymnasium |
-| **LLM / GenAI** | RAG pipelines, adaptive retrieval, agent orchestration, LangChain |
-| **Backend & Infra** | FastAPI · gRPC/Protobuf · Docker · Celery · JWT |
-| **Data & Storage** | Redis · MongoDB · PostgreSQL · ChromaDB |
-| **Observability** | Prometheus · Grafana · TensorBoard |
+- **Languages:** Python, Go, C++
+- **ML / DL:** PyTorch, Scikit-learn, Hugging Face, Gymnasium
+- **LLM / GenAI:** RAG pipelines, adaptive retrieval, agent orchestration, LangChain
+- **Backend & Infra:** FastAPI, gRPC/Protobuf, Docker, Celery, JWT
+- **Data & Storage:** Redis, MongoDB, PostgreSQL, ChromaDB
+- **Observability:** Prometheus, Grafana, TensorBoard
 
 ## Accomplishments
 
-- Published **Keiro: Complexity-Aware Adaptive RAG with Three-Tier Query Routing and Namespace-Scoped Semantic Caching** — preprint on Zenodo ([DOI: 10.5281/zenodo.20639902](https://doi.org/10.5281/zenodo.20639902)).
+- Published **Keiro: Complexity-Aware Adaptive RAG with Three-Tier Query Routing and Namespace-Scoped Semantic Caching**, preprint on Zenodo ([DOI: 10.5281/zenodo.20639902](https://doi.org/10.5281/zenodo.20639902)).
 - Shortlisted for **Summer of Bitcoin 2026** from ~60,000 applicants worldwide.
-- Team lead, **Smart India Hackathon 2025** — built real-time CV + NLP pipelines for hazard classification.
-- Team lead, **Google GenAI Hackathon 2025** — built MindHaven's production RAG and voice pipeline.
+- Team lead, **Smart India Hackathon 2025**, built real-time CV + NLP pipelines for hazard classification.
+- Team lead, **Google GenAI Hackathon 2025**, built MindHaven's production RAG and voice pipeline.
 - Keiro benchmarked at **+5.4pp context recall** and **+6.1pp on multi-hop queries** vs naive RAG, across 180 domain questions and 3 LLM judges.
 - IBM certifications in AI Agents (RAG, LangChain) and Deep Learning with PyTorch.
 
