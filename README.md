@@ -7,28 +7,96 @@
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue?style=flat-square&logo=python)](https://www.python.org/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manas%20Ranjan%20Jena-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/manas-ranjan-jena-44b8a8321)
 [![Email](https://img.shields.io/badge/Email-mranjanjena253%40gmail.com-lightgrey?style=flat-square)](mailto:mranjanjena253@gmail.com)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20639902.svg)](https://doi.org/10.5281/zenodo.20639902)
 
-ML/AI engineer and Go backend developer building RAG systems, LLM infrastructure, and production ML pipelines. B.Tech Mathematics and Computing, Punjab Engineering College.
+---
 
-## Stack
+## Summary
+I build reproducible, end-to-end machine learning systems that bridge research and production. My work spans generative models, reinforcement learning agents, full-stack ML tooling, and applied NLP/LLM work. I emphasize clean engineering, measurable impact, and deployable systems rather than experiments that stop at a notebook.
 
-- **Languages:** Python, Go, C++
-- **ML / DL:** PyTorch, Scikit-learn, Hugging Face, Gymnasium
-- **LLM / GenAI:** RAG pipelines, adaptive retrieval, agent orchestration, LangChain
-- **Backend & Infra:** FastAPI, gRPC/Protobuf, Docker, Celery, JWT
-- **Data & Storage:** Redis, MongoDB, PostgreSQL, ChromaDB
-- **Observability:** Prometheus, Grafana, TensorBoard
+- **Current:** B.Tech (Mathematics & Computing) — Punjab Engineering College, Chandigarh (Class of 2028)  
+- **Started focused ML/AI work:** September 2024  
+- **Primary focus areas:** LLM / LCM engineering, generative AI systems, robust scalable backend systems using golang, creating hybrid softwares using gRPC to get the good of both worlds.
 
-## Accomplishments
+---
 
-- Published **Keiro: Complexity-Aware Adaptive RAG with Three-Tier Query Routing and Namespace-Scoped Semantic Caching**, preprint on Zenodo ([DOI: 10.5281/zenodo.20639902](https://doi.org/10.5281/zenodo.20639902)).
-- Shortlisted for **Summer of Bitcoin 2026** from ~60,000 applicants worldwide.
-- Team lead, **Smart India Hackathon 2025**, built real-time CV + NLP pipelines for hazard classification.
-- Team lead, **Google GenAI Hackathon 2025**, built MindHaven's production RAG and voice pipeline.
-- Keiro benchmarked at **+5.4pp context recall** and **+6.1pp on multi-hop queries** vs naive RAG, across 180 domain questions and 3 LLM judges.
-- IBM certifications in AI Agents (RAG, LangChain) and Deep Learning with PyTorch.
+## Selected highlights & projects
+Short, high-impact projects that demonstrate full-stack ML and systems thinking.
 
-## Contact
+- **SwiftPredict** — AutoML Python library (`pip install swiftpredict-v2`) that automates preprocessing → model selection → training pipelines. (Repo: `SwiftPredict`)  
+- **Multi-Agent Code Refiner (MCP protocol)** — Full-stack system with LangChain-based agents (CodeWriter, SyntaxFixer, Optimizer, DocAgent, Reviewer), FastAPI orchestration, MongoDB session/state tracking, and a React + Tailwind frontend. Demonstrates agent coordination, reproducible workflows, and scoring.  
+- **DCGAN (PyTorch)** — Implemented and logged experiments via TensorBoard; emphasis on stable training and reproducible checkpoints.  
+- **Reinforcement Learning (DQN)** — DQN agent trained to play *Flappy Bird* using `gymnasium`; focused on reward shaping and stable replay buffers.  
+- **Mental_Health_Helper_AI** — Deployed conversational demo and frontend (live demo available in my GitHub Pages).  
+- **Financial Insight Web App** — End-to-end data ingestion, modeling, and dashboarding for finance insights.
 
-[GitHub](https://github.com/ManasRanjanJena253) · [LinkedIn](https://www.linkedin.com/in/manas-ranjan-jena-44b8a8321) · [mranjanjena253@gmail.com](mailto:mranjanjena253@gmail.com)
+(Full repo list and links available on my GitHub: https://github.com/ManasRanjanJena253)
+
+---
+
+## Core skills & tools
+I value breadth with depth — I pick tools that let me ship end-to-end solutions.
+
+**Languages**
+- Python (primary)
+- C++ (Intemediate)
+- Go (primary)
+
+**Machine Learning & Deep Learning**
+- scikit-learn, XGBoost, LightGBM, CatBoost  
+- PyTorch, torchvision, Hugging Face Transformers, CNNs (ResNet), GANs
+
+**Reinforcement Learning**
+- Gymnasium environments, DQN implementations, reward engineering
+
+**Data & MLOps**
+- Pandas, NumPy, Matplotlib, TensorBoard  
+- MLflow, Docker, CI/CD fundamentals, experiment tracking
+
+**Deployment & Backend**
+- FastAPI, Streamlit, Flask (prototypes), Celery, Redis, JWT  
+- MongoDB (session/state persistence), containerized deployments
+
+**Tooling & Integrations**
+- OpenCV (vision pipelines), LangChain (agent orchestration), Git/GitHub workflows
+
+---
+
+## How I work
+- **Reproducibility first** — deterministic seeds, versioned datasets, and experiment tracking.  
+- **End-to-end mindset** — a model isn’t complete until it can be evaluated in the context of an application or deployment.  
+- **Small, testable increments** — iterate in minimal vertical slices: data → model → API → UI.  
+- **Explainability & meaningful metrics** — optimize for robust improvements tied to measurable goals.
+
+---
+
+## Open for
+- Collaborative projects in LLM engineering, generative models, reinforcement learning, and Backend Development.  
+- Remote internships (AI/ML Systems Focused).  
+- Speaking or writing opportunities about agent architectures, reproducible ML, or end-to-end deployment.
+
+---
+
+## Quick start — run my demo repos
+Each project contains a `README.md` with step-by-step instructions. Typical steps I use across repos:
+
+1. `git clone <repo-url>`  
+2. Create a virtual environment and install `requirements.txt`  
+3. Follow the project-specific `README` for dataset downloads or API keys (if required)  
+4. Use available `scripts/` or `Makefile` to reproduce training and launch the demo UI
+
+Tip: for reproducibility in judged demos, I recommend adding one-command Dockerized scripts for each project.
+
+---
+
+## Contact & connect
+- **GitHub:** https://github.com/ManasRanjanJena253  
+- **LinkedIn:** https://www.linkedin.com/in/manas-ranjan-jena-44b8a8321  
+- **Email:** mranjanjena253@gmail.com  
+- **Blog:** https://manas.hashnode.dev
+
+If you find my work useful, please star repositories and follow for updates.
+
+---
+
+## License
+Most personal projects are available under the **MIT License** — check each repository for the exact license and contribution guidelines.
