@@ -92,7 +92,7 @@ Tip: for reproducibility in judged demos, I recommend adding one-command Dockeri
 - **GitHub:** https://github.com/ManasRanjanJena253  
 - **LinkedIn:** https://www.linkedin.com/in/manas-ranjan-jena-44b8a8321  
 - **Email:** mranjanjena253@gmail.com  
-- **Blog:** https://manas.hashnode.dev
+- **Blog:** https://medium.com/@mranjanjena253
 
 If you find my work useful, please star repositories and follow for updates.
 
